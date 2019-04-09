@@ -6,7 +6,7 @@
 
 ## Step 1 :: Clone project
 ```
-$git clone https://github.com/up1/workshop-depoy-microservice-java.git
+$git clone https://github.com/earthzzz/workshop-depoy-microservice-java.git
 $cd workshop-depoy-microservice-java
 #ls
 
